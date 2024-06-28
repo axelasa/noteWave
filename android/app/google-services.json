@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166276047527",
+    "project_id": "notewave-72cbe",
+    "storage_bucket": "notewave-72cbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166276047527:android:9a719a6b811888a106f182",
+        "android_client_info": {
+          "package_name": "com.asa.note_wave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPx0CyplDH8KQqq3J1eZzCiN-eZ6DiDN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
