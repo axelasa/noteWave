@@ -2,4 +2,4 @@
 .flutter-plugins
 .flutter-plugins-dependencies
 lib/firebase_options.dart
-macos/Runner/GoogleService-Info.plist:6
+macos/Runner/GoogleService-Info.plist
