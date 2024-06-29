@@ -60,22 +60,26 @@ class DialogBox extends StatelessWidget {
             // const SizedBox(
             //   height: 5,
             // ),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: [
-                ElevatedButton.icon(
-                  onPressed: onPress,
-                  label: const Icon(Icons.calendar_month),
-                ),
-                const SizedBox(
-                  width: 15,
-                ),
-                SizedBox(
-                  width: 175,
-                    height: 50,
-                    child: appInput,
-                ),
-              ],
+            Expanded(
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: [
+                  ElevatedButton.icon(
+                    onPressed: onPress,
+                    label: const Icon(Icons.calendar_month),
+                  ),
+                  const SizedBox(
+                    width: 15,
+                  ),
+                  Expanded(
+                    child: SizedBox(
+                      width: 175,
+                        height: 50,
+                        child: appInput,
+                    ),
+                  ),
+                ],
+              ),
             ),
             const SizedBox(height: 5,),
             // Row(
