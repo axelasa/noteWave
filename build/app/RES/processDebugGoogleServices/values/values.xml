@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="gcm_defaultSenderId" translatable="false">166276047527</string>
-    <string name="google_api_key" translatable="false">AIzaSyDPx0CyplDH8KQqq3J1eZzCiN-eZ6DiDN4</string>
-    <string name="google_app_id" translatable="false">1:166276047527:android:9a719a6b811888a106f182</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDPx0CyplDH8KQqq3J1eZzCiN-eZ6DiDN4</string>
-    <string name="google_storage_bucket" translatable="false">notewave-72cbe.appspot.com</string>
-    <string name="project_id" translatable="false">notewave-72cbe</string>
-</resources>

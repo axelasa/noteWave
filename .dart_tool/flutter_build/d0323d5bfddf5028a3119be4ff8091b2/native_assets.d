@@ -1,1 +1,0 @@
- /Users/user/StudioProjects/note_wave/.dart_tool/flutter_build/d0323d5bfddf5028a3119be4ff8091b2/native_assets.yaml: 
