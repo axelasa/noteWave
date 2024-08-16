@@ -1,9 +1,10 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:note_wave/features/pages/notes/notes.dart';
-import 'features/pages/habit/habit.dart';
-import 'features/pages/todo/todo.dart';
+import 'package:note_wave/pages/notes/notes.dart';
+import 'package:note_wave/service/auth_service.dart';
+import '/pages/habit/habit.dart';
+import '/pages/todo/todo.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -17,7 +18,7 @@ class _HomePageState extends State<HomePage> {
   int showDrawer = 0;
 
   final ValueNotifier<Homepages>  _currentPage = ValueNotifier(Homepages.notes);
-
+  final AuthService _service = AuthService();
 
   @override
   Widget build(BuildContext context) {
@@ -81,6 +82,16 @@ class _HomePageState extends State<HomePage> {
                              },
                              leading: const Icon(Icons.close_outlined,size:25.0,color: Colors.white,),
                              title: const Text('close',style: TextStyle(
+                               fontSize: 18.0,
+                               color: Colors.white,
+                             ),),
+                           ),
+                           ListTile(
+                             onTap: (){
+                               _service.signOut();
+                             },
+                             leading: const Icon(Icons.logout_outlined,size:25.0,color: Colors.white,),
+                             title: const Text('Log out',style: TextStyle(
                                fontSize: 18.0,
                                color: Colors.white,
                              ),),

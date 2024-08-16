@@ -1,0 +1,1 @@
+const String diary = "assets/diary.png";

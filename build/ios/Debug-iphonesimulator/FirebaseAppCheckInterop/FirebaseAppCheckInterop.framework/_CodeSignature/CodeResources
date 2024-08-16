@@ -6,11 +6,15 @@
 	<dict>
 		<key>Headers/FIRAppCheckInterop.h</key>
 		<data>
-		ArtWjMctu/kUnhE2Spb5f5H/NdU=
+		i4P3VfiVwHf/7YyJH4jhtJYXxW0=
 		</data>
 		<key>Headers/FIRAppCheckProtocol.h</key>
 		<data>
-		6cD24frvGtJ0pQkEbPDw8SrKh/w=
+		dOd90U4QM7XfWxIo40/g0hrtWIk=
+		</data>
+		<key>Headers/FIRAppCheckTokenProtocol.h</key>
+		<data>
+		bgQ53ecPMP4YpaopvMN4dpI2oco=
 		</data>
 		<key>Headers/FIRAppCheckTokenResultInterop.h</key>
 		<data>
@@ -18,15 +22,15 @@
 		</data>
 		<key>Headers/FirebaseAppCheckInterop-umbrella.h</key>
 		<data>
-		JtPIv5oxj17Yr+fnkFZEnQn/KgI=
+		pxt0i9AGnD/8DpzCcrRgRKEm8Jg=
 		</data>
 		<key>Headers/FirebaseAppCheckInterop.h</key>
 		<data>
-		4eBwqw6ARXvbgptPySByzgIzQ/k=
+		vpWE0td3RjSs6BE3DePjPpu29vE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xvWyyf9vJfCaoIhbHwVqOfpQPRg=
+		c++wEAQ8VHiEyHad1C+A0IxJPdw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -39,22 +43,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ArtWjMctu/kUnhE2Spb5f5H/NdU=
+			i4P3VfiVwHf/7YyJH4jhtJYXxW0=
 			</data>
 			<key>hash2</key>
 			<data>
-			lqyjwMs5fbRbmoQd91XB9IOBIqM6HuxjOQBtV81cigM=
+			9H3bC5Z5adEjOtzsWPfO71dJraOxxHku8QGGWFYzbB0=
 			</data>
 		</dict>
 		<key>Headers/FIRAppCheckProtocol.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6cD24frvGtJ0pQkEbPDw8SrKh/w=
+			dOd90U4QM7XfWxIo40/g0hrtWIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			IYZ44gds65zIwMSW6bdnH8rlTWK9nc9Jp/HbkN8GI/4=
+			H7RWionJTPNrFL6gD+Kg1u3/f/kLDY/b5GKKya3jaMo=
+			</data>
+		</dict>
+		<key>Headers/FIRAppCheckTokenProtocol.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bgQ53ecPMP4YpaopvMN4dpI2oco=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZNmBtlVFrF6x7kyjbcKyIgw0IQGmoBU0OivXwqTUebw=
 			</data>
 		</dict>
 		<key>Headers/FIRAppCheckTokenResultInterop.h</key>
@@ -72,22 +87,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JtPIv5oxj17Yr+fnkFZEnQn/KgI=
+			pxt0i9AGnD/8DpzCcrRgRKEm8Jg=
 			</data>
 			<key>hash2</key>
 			<data>
-			2qbA21frf+mmswWvnMh9zdhzYnCzEFHHs3KxCDQDA/E=
+			9KwL6dnQ+jxuPbPq90beyRdexZva37lityZR3J2jT8o=
 			</data>
 		</dict>
 		<key>Headers/FirebaseAppCheckInterop.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4eBwqw6ARXvbgptPySByzgIzQ/k=
+			vpWE0td3RjSs6BE3DePjPpu29vE=
 			</data>
 			<key>hash2</key>
 			<data>
-			Vj9HfO3aYpmAZkBz1p1QC2YoPCy0C/IcHxBQXvcZfI4=
+			LzLhkmVBtmgeG5INC+k/6T00EDETBusy2LgRuo+Yi0g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

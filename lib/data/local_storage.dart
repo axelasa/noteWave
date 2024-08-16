@@ -29,31 +29,6 @@ class ToDoDataBase{
   }
 }
 
-// class NoteDataBase{
-//   List noteList = [];
-//   final _storage = Hive.box('storage');
-//
-//   //this is run when the app is run for the very first time
-//   void createInitialData(){
-//     noteList = [
-//       ['First Task', '',''],
-//       ['Second Task', '','']
-//     ];
-//   }
-//
-//   //load data from db
-//   void loadNote(){
-//
-//     noteList = _storage.get('NOTELIST');
-//   }
-//   //update the db
-//   void updateNoteListDataBase(){
-//     noteList = _storage.get('NOTELIST',noteList);
-//   }
-// }
-
-
-
 class HabitDataBase{
 
   final _storage = Hive.box('storage');
