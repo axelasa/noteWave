@@ -3,8 +3,8 @@ import 'package:note_wave/core/common/app_color.dart';
 
 class MyButton extends StatelessWidget {
   final String buttonName;
-  VoidCallback onPressed;
-   MyButton({super.key, required this.buttonName,required this.onPressed});
+  final VoidCallback onPressed;
+   const MyButton({super.key, required this.buttonName,required this.onPressed});
 
   @override
   Widget build(BuildContext context) {

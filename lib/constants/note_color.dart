@@ -10,6 +10,10 @@ List<Color> cardsColor = [
   Colors.green.shade100,
   Colors.blueGrey.shade100,
   Colors.blue.shade100,
+  Colors.purple.shade100,
+  Colors.indigo.shade100,
+  Colors.amber.shade100,
+  Colors.deepOrange.shade100,
 ];
 
 List<Color>tasksColor = [
@@ -18,4 +22,13 @@ List<Color>tasksColor = [
   Colors.green.shade100,
   Colors.blueGrey.shade100,
   Colors.blue.shade100,
+  Colors.blueAccent.shade100,
+  Colors.purpleAccent.shade100,
+  Colors.indigoAccent.shade100,
+  Colors.amberAccent.shade100,
+  Colors.deepOrangeAccent.shade100,
+  Colors.pinkAccent.shade100,
+  Colors.yellowAccent.shade100,
+  Colors.orangeAccent.shade100,
+  Colors.greenAccent.shade100,
 ];

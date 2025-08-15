@@ -2,7 +2,7 @@
   "project_info": {
     "project_number": "166276047527",
     "project_id": "notewave-72cbe",
-    "storage_bucket": "notewave-72cbe.appspot.com"
+    "storage_bucket": "notewave-72cbe.firebasestorage.app"
   },
   "client": [
     {
